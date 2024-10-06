@@ -20,12 +20,6 @@ I'm a Software Engineer with over a decade of experience, having transitioned fr
 
 ---
 
-#### 🏅 **Honors & Awards**
-- Student of Maths Excellence Award  
-- Winners of Sonus Hackathon (Twice in a row)
-
----
-
 #### 📫 **Get in Touch**
 - **LinkedIn**: [linkedin.com/in/nandeeshmp](https://www.linkedin.com/in/nandeeshmp)  
 - **Website**: [nandeesh.com](https://nandeesh.com)
